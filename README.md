@@ -1,2 +1,1 @@
-# My-Simple-Codes
-Simply here are useful codes for your sites!
+This is a cool neon calculator for your website, if you need it just download and use it! 
